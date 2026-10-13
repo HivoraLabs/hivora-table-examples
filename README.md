@@ -79,3 +79,7 @@ The sandbox demo merchant, "Hivora Demo Kitchen," resets nightly at 4am US Pacif
 Don't build anything that depends on state persisting across that boundary.
 See the [Sandbox guide](https://docs.hivoralabs.com/hivora-table/guides/sandbox) for
 details.
+
+## License
+
+[MIT](./LICENSE) — copy these examples into your own integration freely.
